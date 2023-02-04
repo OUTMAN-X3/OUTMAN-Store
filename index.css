@@ -1,0 +1,52 @@
+body{
+  background:black;
+}
+.X{
+  background:#FFF;
+  margin: 0 5%;
+  box-shadow: 2px 2px gray;
+  border-radius: 30px;
+  padding: 5px;
+  margin-top: 100px;
+  border: 3px dashed  black;
+}
+.p{
+  font-family: Sans-Serif;
+  background: green;
+}
+.RGB img{
+  width:50%;
+  height:50%;
+}
+.RGB p{
+ position: relative;
+ margin: 0px 10%;
+ padding:10px;
+ font-family: Arial;
+}
+.RGB h2{
+  color: #3e3e38;
+  font-family: Monospace;
+}
+.RGB a{
+  text-decoration: none;
+  color: white;
+  background: black;
+  border:none;
+  border-radius:2px ;
+  padding: 5px 15px;
+  transition: 0.5s;
+  display: inline-block;
+  height: auto;
+  width: auto;
+  font-family: Sans-Serif;
+  box-shadow: 2px 2px gray;
+}
+.RGB a:hover{
+  transform: scale(1.1);
+  background: white;
+  color: black;
+}
+.h1{
+  background: white;
+}
